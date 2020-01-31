@@ -9,6 +9,6 @@
   "author": "pham van diep",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^8.2.0"
+    "hapi": "^18.1.0"
   }
 }
